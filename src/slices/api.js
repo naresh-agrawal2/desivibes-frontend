@@ -1,4 +1,4 @@
-export const url = "https://desivibes-backend.onrender.com/";
+export const url = "https://desivibes-backend.onrender.com";
 
 export const setHeaders = () => {
   const headers = {
